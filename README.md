@@ -118,7 +118,7 @@ https://drive.google.com/file/d/1WJPRqQQ2dyup3QWmDkaYQBQrEu6TN5wa/view?usp=shari
 
 ---
 
-## ✅ Conclusão
+##  Conclusão
 
 Este projeto demonstra o uso de orientação a objetos com ponteiros em Arduino e controle lógico por botão utilizando programação não bloqueante. A implementação garante maior responsividade e controle total sobre o ciclo do semáforo em tempo real.
 
