@@ -113,10 +113,7 @@ void loop() {
 ##  Vídeo de Funcionamento
 
 
-<video width="560" height="315" controls>
-  <source src="https://raw.githubusercontent.com/c4uazinnnn/Ponderada-Arduino-Semaforo-2/main/Video semaforo.mp4" type="video/mp4">
-  Seu navegador não suporta vídeo HTML5. <a href="Video_semaforo.mp4">Baixar o vídeo</a>
-</video>
+https://drive.google.com/file/d/1WJPRqQQ2dyup3QWmDkaYQBQrEu6TN5wa/view?usp=sharing
 
 
 ---
